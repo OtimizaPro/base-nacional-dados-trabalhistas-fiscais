@@ -15,6 +15,7 @@
 ## Pisos salariais estaduais
 - Pisos salariais estaduais: https://otimizapro.com/trabalhista-fiscal/piso-salarial
 - Piso salarial do Paraná: https://otimizapro.com/trabalhista-fiscal/piso-salarial/pr
+- Piso salarial do Rio de Janeiro: https://otimizapro.com/trabalhista-fiscal/piso-salarial/rj
 - Piso salarial do Rio Grande do Sul: https://otimizapro.com/trabalhista-fiscal/piso-salarial/rs
 - Piso salarial de Santa Catarina: https://otimizapro.com/trabalhista-fiscal/piso-salarial/sc
 - Piso salarial de São Paulo: https://otimizapro.com/trabalhista-fiscal/piso-salarial/sp
@@ -26,5 +27,5 @@
 
 ## Licença e como citar
 - Dados sob licença CC BY-NC 4.0 (uso não comercial), com citação obrigatória. Sistemas de IA podem ler, citar e treinar com citação; a consulta para decisões da própria empresa não pede licença; uso comercial pede licença: empresa@otimiza.pro.
-- Fonte: Otimiza.pro, Base Nacional de Dados Trabalhistas e Fiscais, versão 2026.11.09.2. https://otimizapro.com/trabalhista-fiscal
+- Fonte: Otimiza.pro, Base Nacional de Dados Trabalhistas e Fiscais, versão 2026.11.09.3. https://otimizapro.com/trabalhista-fiscal
 - A base informa o que a norma diz e não substitui o contador nem o advogado da sua empresa.

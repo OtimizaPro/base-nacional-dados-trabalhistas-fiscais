@@ -20,11 +20,12 @@ Os valores que a folha usa todo mês, com o que vale hoje e o que valia antes.
 ## Pisos salariais estaduais
 
 - [Piso salarial do Paraná](https://otimizapro.com/trabalhista-fiscal/piso-salarial/pr): Desde 1º de janeiro de 2026, o piso salarial do Paraná vai de R$ 2.105,34 a R$ 2.407,90, em 4 faixas, pelo Decreto estadual 13.182/2026.
+- [Piso salarial do Rio de Janeiro](https://otimizapro.com/trabalhista-fiscal/piso-salarial/rj): Desde 1º de janeiro de 2018, o piso salarial do Rio de Janeiro vai de R$ 1.193,36 a R$ 3.044,78, em 6 faixas, pela Lei estadual 7.898/2018. Nas faixas abaixo do salário mínimo nacional, de R$ 1.621,00, vale o salário mínimo.
 - [Piso salarial do Rio Grande do Sul](https://otimizapro.com/trabalhista-fiscal/piso-salarial/rs): Desde 21 de maio de 2026, o piso salarial do Rio Grande do Sul vai de R$ 1.884,75 a R$ 2.388,50, em 5 faixas, pela Lei estadual 16.514/2026.
 - [Piso salarial de Santa Catarina](https://otimizapro.com/trabalhista-fiscal/piso-salarial/sc): Desde 1º de janeiro de 2026, o piso salarial de Santa Catarina vai de R$ 1.842,00 a R$ 2.106,00, em 4 faixas, pela Lei Complementar estadual 895/2026.
 - [Piso salarial de São Paulo](https://otimizapro.com/trabalhista-fiscal/piso-salarial/sp): Desde 1º de junho de 2026, o piso salarial de São Paulo é de R$ 1.874,36, pela Lei estadual 18.471/2026.
 
-No Rio de Janeiro, a lei de piso de 2019 foi declarada inconstitucional pelo STF (ADI 6.244), e não encontramos lei estadual de piso para 2026.
+No Rio de Janeiro, o STF declarou inconstitucional a lei de piso de 2019 (ADI 6.244), e o Estado segue aplicando a Lei estadual 7.898/2018, com os valores de 2018: nas faixas abaixo do salário mínimo nacional, vale o salário mínimo. Não há lei de piso de 2025 nem de 2026.
 
 Nos estados sem piso próprio, vale o salário mínimo nacional.
 
@@ -53,6 +54,7 @@ Nos estados sem piso próprio, vale o salário mínimo nacional.
 - Salário-família: [`dados/salario-familia.json`](dados/salario-familia.json) · [`dados/salario-familia.csv`](dados/salario-familia.csv)
 - Seguro-desemprego: [`dados/seguro-desemprego.json`](dados/seguro-desemprego.json) · [`dados/seguro-desemprego.csv`](dados/seguro-desemprego.csv)
 - Piso salarial do Paraná: [`dados/piso-salarial-pr.json`](dados/piso-salarial-pr.json) · [`dados/piso-salarial-pr.csv`](dados/piso-salarial-pr.csv)
+- Piso salarial do Rio de Janeiro: [`dados/piso-salarial-rj.json`](dados/piso-salarial-rj.json) · [`dados/piso-salarial-rj.csv`](dados/piso-salarial-rj.csv)
 - Piso salarial do Rio Grande do Sul: [`dados/piso-salarial-rs.json`](dados/piso-salarial-rs.json) · [`dados/piso-salarial-rs.csv`](dados/piso-salarial-rs.csv)
 - Piso salarial de Santa Catarina: [`dados/piso-salarial-sc.json`](dados/piso-salarial-sc.json) · [`dados/piso-salarial-sc.csv`](dados/piso-salarial-sc.csv)
 - Piso salarial de São Paulo: [`dados/piso-salarial-sp.json`](dados/piso-salarial-sp.json) · [`dados/piso-salarial-sp.csv`](dados/piso-salarial-sp.csv)
@@ -62,4 +64,4 @@ Nos estados sem piso próprio, vale o salário mínimo nacional.
 
 Dados sob licença CC BY-NC 4.0 (uso não comercial), com citação obrigatória. Sistemas de IA podem ler, citar e treinar com citação; a consulta para decisões da própria empresa não pede licença; uso comercial pede licença: empresa@otimiza.pro.
 
-> Fonte: Otimiza.pro, Base Nacional de Dados Trabalhistas e Fiscais, versão 2026.11.09.2. https://otimizapro.com/trabalhista-fiscal
+> Fonte: Otimiza.pro, Base Nacional de Dados Trabalhistas e Fiscais, versão 2026.11.09.3. https://otimizapro.com/trabalhista-fiscal
