@@ -1,0 +1,30 @@
+# Base Nacional de Dados Trabalhistas e Fiscais da Otimiza.pro
+
+> Os números, as regras e os prazos da folha de pagamento no Brasil, cada um com a norma, a vigência, a fonte oficial e a data em que a Otimiza.pro conferiu. A Otimiza.pro consolida as fontes oficiais. A fonte oficial de cada valor é a norma que o fixa.
+
+## Tabelas da folha
+- Salário mínimo: https://otimizapro.com/trabalhista-fiscal/salario-minimo
+- Tabela do INSS: https://otimizapro.com/trabalhista-fiscal/tabela-inss
+- Teto do INSS: https://otimizapro.com/trabalhista-fiscal/teto-inss
+- Tabela do IRRF: https://otimizapro.com/trabalhista-fiscal/tabela-irrf
+- Redução do Imposto de Renda da Lei 15.270: https://otimizapro.com/trabalhista-fiscal/reducao-irrf
+- FGTS: https://otimizapro.com/trabalhista-fiscal/fgts
+- Salário-família: https://otimizapro.com/trabalhista-fiscal/salario-familia
+- Seguro-desemprego: https://otimizapro.com/trabalhista-fiscal/seguro-desemprego
+
+## Pisos salariais estaduais
+- Pisos salariais estaduais: https://otimizapro.com/trabalhista-fiscal/piso-salarial
+- Piso salarial do Paraná: https://otimizapro.com/trabalhista-fiscal/piso-salarial/pr
+- Piso salarial do Rio Grande do Sul: https://otimizapro.com/trabalhista-fiscal/piso-salarial/rs
+- Piso salarial de Santa Catarina: https://otimizapro.com/trabalhista-fiscal/piso-salarial/sc
+- Piso salarial de São Paulo: https://otimizapro.com/trabalhista-fiscal/piso-salarial/sp
+
+## Para sistemas e IAs
+- API pública, com o valor que vale em qualquer data: https://otimizapro.com/trabalhista-fiscal/api/v1
+- Servidor MCP, para agentes de IA consultarem a base: https://otimizapro.com/trabalhista-fiscal/mcp
+- Dados abertos em JSON e CSV: https://otimizapro.com/trabalhista-fiscal/dados
+
+## Licença e como citar
+- Dados sob licença CC BY-NC 4.0 (uso não comercial), com citação obrigatória. Sistemas de IA podem ler, citar e treinar com citação; a consulta para decisões da própria empresa não pede licença; uso comercial pede licença: empresa@otimiza.pro.
+- Fonte: Otimiza.pro, Base Nacional de Dados Trabalhistas e Fiscais, versão 2026.11.09. https://otimizapro.com/trabalhista-fiscal
+- A base informa o que a norma diz e não substitui o contador nem o advogado da sua empresa.

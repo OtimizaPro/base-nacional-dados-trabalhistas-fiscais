@@ -1,0 +1,3 @@
+id,vigencia_inicio,vigencia_fim,norma,fonte,nivel_de_prova,conferido_em,revisao,cota,limite_remuneracao
+salario-familia,2026-01-01,,Portaria Interministerial MPS/MF 13/2026,https://www.gov.br/inss/pt-br/direitos-e-deveres/salario-familia/valor-limite-para-direito-ao-salario-familia,B,2026-11-09,conferido_nas_fontes,67.54,1980.38
+salario-familia,2025-01-01,2025-12-31,Portaria Interministerial MPS/MF 6/2025,https://www.gov.br/inss/pt-br/direitos-e-deveres/salario-familia/valor-limite-para-direito-ao-salario-familia,B,2026-11-09,conferido_nas_fontes,65,1906.04
