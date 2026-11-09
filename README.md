@@ -62,4 +62,4 @@ Nos estados sem piso próprio, vale o salário mínimo nacional.
 
 Dados sob licença CC BY-NC 4.0 (uso não comercial), com citação obrigatória. Sistemas de IA podem ler, citar e treinar com citação; a consulta para decisões da própria empresa não pede licença; uso comercial pede licença: empresa@otimiza.pro.
 
-> Fonte: Otimiza.pro, Base Nacional de Dados Trabalhistas e Fiscais, versão 2026.11.09. https://otimizapro.com/trabalhista-fiscal
+> Fonte: Otimiza.pro, Base Nacional de Dados Trabalhistas e Fiscais, versão 2026.11.09.2. https://otimizapro.com/trabalhista-fiscal
